@@ -14,3 +14,5 @@ for (a, b) in shop_list.items():
     b = b.title()
     print("Idę do", a, "i kupuję tam", b)
 print("W sumie kupuję", x, "produktów.")
+
+#A na końcu jeszcze jedno zdanie dla dodatkowego commita
