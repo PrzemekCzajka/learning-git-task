@@ -1,4 +1,4 @@
-#Zadanie 3 1 1
+#Zadanie 3 1 1 - Dołączam do zadania z Gita
 
 shop_list = {'warzywniak': ['jabłka', 'cebula', 'ziemniaki'],  
                 'mięsny': ['kiełbasa', 'wołowina']}
